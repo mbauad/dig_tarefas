@@ -1,0 +1,7 @@
+{
+  "name": "GIC - Belém Digital",
+  "description": "Sistema de gestão de tarefas e indicadores de desempenho para o setor GIC.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
